@@ -4,8 +4,5 @@ public class Strings {
         Scanner sc=new Scanner(System.in);
         String a=sc.nextLine();
         System.out.println(a.toUpperCase());
-        System.out.println(a.length());
-        System.out.println(a.replace(a,"hello"));
-        System.out.println(a.substring(0, 6));
     }
 }
