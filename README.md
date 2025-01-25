@@ -1,2 +1,2 @@
 # String_Operation
-It is a program to perform some string operations
+It is a program to perform string operation to Upper Case
